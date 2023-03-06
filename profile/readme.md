@@ -14,4 +14,4 @@ Creemos en mantenernos actualizados y en estar siempre a la vanguardia de las ú
 # ¿Cómo podemos ayudarte?
 En ARV SYSTEM CORP, nos encantaría tener la oportunidad de ayudarte a desarrollar soluciones personalizadas para satisfacer tus necesidades de negocio. Si estás buscando un equipo de desarrollo de software confiable, eficiente e innovador, no dudes en ponerte en contacto con nosotros.
 
-Puedes hablarnos atravez de nuestro correo para ponerte en contacto directamente con nosotros para hablar sobre tu proyecto o necesidades específicas. Estamos ansiosos por trabajar contigo.
+Puedes hablarnos atravéz de nuestro correo para ponerte en contacto directamente con nosotros o hablarnos directamente en la sección de [discusiones](https://github.com/orgs/ARV-System-CORP/discussions) para hablar sobre tu proyecto o necesidades específicas. Estamos ansiosos por trabajar contigo.
