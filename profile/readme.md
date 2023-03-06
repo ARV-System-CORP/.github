@@ -1,7 +1,7 @@
 
 # ¡Bienvenido a ARV SYSTEM CORP!
 
-Somos una empresa de tecnología líder en la industria que se dedica a crear soluciones innovadoras y personalizadas para nuestros clientes. Nuestro equipo de programadores altamente capacitados y experimentados trabaja arduamente para brindar soluciones que sean eficientes, efectivas y escalables.
+Somos una empresa innovadora que se dedica a desarrollar soluciones tecnológicas para una amplia gama de clientes. Nuestro objetivo es ayudar a las empresas a ser más eficientes y rentables mediante la implementación de tecnología avanzada y soluciones personalizadas.
 
 # ¿Qué es ARV SYSTEM CORP?
 
